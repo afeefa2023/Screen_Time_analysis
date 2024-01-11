@@ -2,9 +2,6 @@
 
 **overview**
 
-**screean_time_analysis using python**
-
-https://colab.research.google.com/drive/1XvxgdxHlpLTVq1gfa9quizCyr4GM7Nec?usp=sharing
 
 Screen Time Analysis lets you know how much time you spend on what kind of applications you use on your device. It is the task of analyzing and creating a report on which applications and websites are used by the user for how much time.
 
@@ -35,7 +32,7 @@ using seaborn and plotly visualize thbe cleaned data
 
 **Conclusion**
 
-Examining screen time patterns, particularly on the noteworthy date of '2022-09-18,' offers valuable insights. Analyzing app usage and notification trends not only sheds light on user behavior but also has implications for enhancing user engagement.
+Examining screen time patterns, particularly on the noteworthy date of '2022-09-18,' offers valuable insights. Analyzing app usage and notification trends not only sheds light on user behavior but also has implications for enhancing user engagement.[here](https://colab.research.google.com/drive/1XvxgdxHlpLTVq1gfa9quizCyr4GM7Nec?usp=sharing)
 
 
 
